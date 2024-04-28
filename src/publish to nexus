@@ -1,0 +1,11 @@
+<distribution mangaement>
+<repository>
+<id> (maven-snapshot)</id>
+<url>http://15.207.54.248:8081/repository/maven-releases/</url>
+</repository>
+<snapshotRepository>
+<id> mavem-snapshots </id>
+<url>http://15.207.54.248:8081/repository/maven-snapshot/</url>
+<snapshotrepository>
+<distributionmanagement>
+<project>
